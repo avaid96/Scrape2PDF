@@ -37,6 +37,3 @@ Before you begin, ensure you have the following installed on your system:
     ```python crawl-docs.py <your-url>/sitemap.xml```
 
     This will start the crawling process, saving PDFs of the crawled pages into the Docs folder.
-
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or create an issue if you have any improvements or find any bugs.
