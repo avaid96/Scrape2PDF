@@ -1,0 +1,5 @@
+# Ignore Downloaded Docs
+/Docs
+
+# Ignore virtualenv
+/myenv
